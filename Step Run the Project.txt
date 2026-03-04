@@ -1,0 +1,16 @@
+To run the digital home project steps
+
+Backend- 
+1.Go into the correct main folder AND the backend folder at the same time:
+	--cd digital_home_services\backend
+2.Turn on your virtual environment:
+	--.\venv\Scripts\activate
+3.Start the server:
+	--python manage.py runserver
+
+2nd terminal - Frontend
+
+1.Go into the correct frontend folder:
+	--cd digital_home_services\frontend
+2. Start the React server:
+	--npm run dev
